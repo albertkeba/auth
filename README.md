@@ -2,7 +2,8 @@ auth
 ====
 
 authentification avec codeigniter
-Source: http://www.wikihow.com/Create-a-Secure-Login-Script-in-PHP-and-MySQL
+
+Inspiré de ce tuto: <a href="http://www.wikihow.com/Create-a-Secure-Login-Script-in-PHP-and-MySQL">How to Create a Secure Login Script in PHP and MySQL</a>
 
 Comment créer un système d'authentification permettant de contrer certains types d'attaques comme:
 - injection sql
