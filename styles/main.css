@@ -1,0 +1,18 @@
+html,body {height: 100%;}
+body
+{
+	background: none repeat scroll 0 0 #F9F9F9;
+	font-family: "Open Sans",sans-serif;
+	font-size: 14px;
+	line-height: 1.42857;
+	color: #767676;
+	text-rendering: optimizelegibility !important;
+	padding-top: 0;
+	background-color: #142849;
+	background-image: -webkit-gradient(radial,center center,0,center center,460,from(#165387),to(#142849));
+	background-image: -webkit-radial-gradient(circle,#165387,#142849);
+	background-image: -moz-radial-gradient(circle,#165387,#142849);
+	background-image: -o-radial-gradient(circle,#165387,#142849);
+	background-image: radial-gradient(circle,#165387,#142849);
+	background-repeat: no-repeat;
+}
