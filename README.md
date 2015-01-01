@@ -1,7 +1,5 @@
-système d'authentification avec CodeIgniter
+Système d'authentification avec CodeIgniter
 ====
-
-authentification avec codeigniter
 
 Inspiré de ce tuto: <a href="http://www.wikihow.com/Create-a-Secure-Login-Script-in-PHP-and-MySQL">How to Create a Secure Login Script in PHP and MySQL</a>
 
